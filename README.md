@@ -6,6 +6,6 @@
 
 I would love to hear your feedback.
 
-{{ Email form }}
+{{ form }}
 
 
