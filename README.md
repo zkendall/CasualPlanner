@@ -6,6 +6,5 @@
 
 I would love to hear your feedback.
 
-{{ form }}
-
+{% include contact_form.html %}
 
